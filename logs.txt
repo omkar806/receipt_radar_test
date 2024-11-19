@@ -1,0 +1,634 @@
+-----------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : 'NoneType' object has no attribute 'close'
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ -----------------------------subject: 
+EatSure : Invoice for your order CRN- 204364536
+from_email : 
+EatSure <no-reply@eatsure.com>
+date : 
+Mon, 25 Dec 2023 10:34:35 +0530
+plain_body : 
+ Hello Omkar Malpure!, Such assurance on your plate. And it tastes so good you'll forget to Instagram it. It's time to EatSure. Attached is your order invoice. Disclaimer: This is sent on behalf of the Brand Partner and EatSure disclaims any and all liabilities that may arise in this respect. Click here to unsubscribe
+attachments : 
+[EmailAttachment(filename='EatSure.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+Your Zomato order from Burger King
+from_email : 
+Zomato Order <noreply@zomato.com>
+date : 
+Sun, 31 Dec 2023 07:59:58 +0000 (UTC)
+subject: 
+Your Zomato order from Hotel Mughal Darbar
+from_email : 
+Zomato Order <noreply@zomato.com>
+date : 
+Sat, 06 Jan 2024 14:36:11 +0000 (UTC)
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='Order_ID_5476995294.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='Order_Invoice5476995294.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='User_Charge_Invoice5476995294.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+Your Zomato order from Faasos - Wraps & Rolls
+from_email : 
+Zomato Order <noreply@zomato.com>
+date : 
+Wed, 10 Jan 2024 10:32:12 +0000 (UTC)
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='Order_ID_5449023577.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='Order_Invoice5449023577.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='User_Charge_Invoice5449023577.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='Order_Invoice5488377246.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='User_Charge_Invoice5488377246.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+Your Zomato order from Al Arabian Express
+from_email : 
+Zomato Order <noreply@zomato.com>
+date : 
+Sat, 20 Jan 2024 07:53:44 +0000 (UTC)
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='Order_ID_5512359221.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='Order_Invoice5512359221.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='User_Charge_Invoice5512359221.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+Your Zomato order from Al Arabian Express
+from_email : 
+Zomato Order <noreply@zomato.com>
+date : 
+Wed, 10 Jan 2024 16:04:15 +0000 (UTC)
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='Order_ID_5489185541.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='Order_Invoice5489185541.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='User_Charge_Invoice5489185541.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+Your Zomato order from Haldiram's Restaurant
+from_email : 
+Zomato Order <noreply@zomato.com>
+date : 
+Fri, 12 Jan 2024 03:42:12 +0000 (UTC)
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='Order_ID_5492787309.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='Order_Invoice5492787309.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='User_Charge_Invoice5492787309.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+Your Zomato order from Haldiram's Restaurant
+from_email : 
+Zomato Order <noreply@zomato.com>
+date : 
+Sun, 24 Dec 2023 04:33:50 +0000 (UTC)
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='Order_ID_5439483109.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='Order_Invoice5439483109.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='User_Charge_Invoice5439483109.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+-----------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ -----------------------------subject: 
+EatSure : Invoice for your order CRN- 105625948
+from_email : 
+EatSure <no-reply@eatsure.com>
+date : 
+Thu, 6 Oct 2022 17:16:26 +0530
+plain_body : 
+ Hello Omkar Malpure!, Such assurance on your plate. And it tastes so good you'll forget to Instagram it. It's time to EatSure. Attached is your order invoice. Disclaimer: This is sent on behalf of the Brand Partner and EatSure disclaims any and all liabilities that may arise in this respect. Click here to unsubscribe
+attachments : 
+[EmailAttachment(filename='Faasos - Wraps & Rolls.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+EatSure : Invoice for your order CRN- 105547562
+from_email : 
+EatSure <no-reply@eatsure.com>
+date : 
+Wed, 5 Oct 2022 19:51:20 +0530
+plain_body : 
+ Hello Omkar Malpure!, Such assurance on your plate. And it tastes so good you'll forget to Instagram it. It's time to EatSure. Attached is your order invoice. Disclaimer: This is sent on behalf of the Brand Partner and EatSure disclaims any and all liabilities that may arise in this respect. Click here to unsubscribe
+attachments : 
+[EmailAttachment(filename='Lunchbox Meals & Thalis.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+EatSure : Invoice for your order CRN- 107434760
+from_email : 
+EatSure <no-reply@eatsure.com>
+date : 
+Sat, 29 Oct 2022 10:37:28 +0530
+plain_body : 
+ Hello Omkar Malpure!, Such assurance on your plate. And it tastes so good you'll forget to Instagram it. It's time to EatSure. Attached is your order invoice. Disclaimer: This is sent on behalf of the Brand Partner and EatSure disclaims any and all liabilities that may arise in this respect. Click here to unsubscribe
+attachments : 
+[EmailAttachment(filename='Faasos - Wraps & Rolls.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+redBus - Tax Invoice
+from_email : 
+Support redBus <support@redbus.in>
+date : 
+Mon, 7 Nov 2022 13:18:55 +0000
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='AC_GST_Tax_Invoice.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+EatSure : Invoice for your order CRN- 107923169
+from_email : 
+EatSure <no-reply@eatsure.com>
+date : 
+Fri, 4 Nov 2022 16:06:51 +0530
+plain_body : 
+ Hello Omkar Malpure!, Such assurance on your plate. And it tastes so good you'll forget to Instagram it. It's time to EatSure. Attached is your order invoice. Disclaimer: This is sent on behalf of the Brand Partner and EatSure disclaims any and all liabilities that may arise in this respect. Click here to unsubscribe
+attachments : 
+[EmailAttachment(filename='Faasos - Wraps & Rolls.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+EatSure : Invoice for your order CRN- 106338930
+from_email : 
+EatSure <no-reply@eatsure.com>
+date : 
+Sat, 15 Oct 2022 10:57:09 +0530
+subject: 
+EatSure : Invoice for your order CRN- 106253640
+from_email : 
+EatSure <no-reply@eatsure.com>
+date : 
+Fri, 14 Oct 2022 11:32:38 +0530
+plain_body : 
+ Hello Omkar Malpure!, Such assurance on your plate. And it tastes so good you'll forget to Instagram it. It's time to EatSure. Attached is your order invoice. Disclaimer: This is sent on behalf of the Brand Partner and EatSure disclaims any and all liabilities that may arise in this respect. Click here to unsubscribe
+attachments : 
+[EmailAttachment(filename='Faasos - Wraps & Rolls.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+EatSure : Invoice for your order CRN- 107545049
+from_email : 
+EatSure <no-reply@eatsure.com>
+date : 
+Sun, 30 Oct 2022 15:52:36 +0530
+plain_body : 
+ Hello Omkar Malpure!, Such assurance on your plate. And it tastes so good you'll forget to Instagram it. It's time to EatSure. Attached is your order invoice. Disclaimer: This is sent on behalf of the Brand Partner and EatSure disclaims any and all liabilities that may arise in this respect. Click here to unsubscribe
+attachments : 
+[EmailAttachment(filename='Faasos - Wraps & Rolls.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+plain_body : 
+ Hello Omkar Malpure!, Such assurance on your plate. And it tastes so good you'll forget to Instagram it. It's time to EatSure. Attached is your order invoice. Disclaimer: This is sent on behalf of the Brand Partner and EatSure disclaims any and all liabilities that may arise in this respect. Click here to unsubscribe
+attachments : 
+[EmailAttachment(filename='Faasos - Wraps & Rolls.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+ixigo Booking Invoice. Booking ID. Booking ID : IF22112429074017
+from_email : 
+ixigo <no-reply@ixigo.com>
+date : 
+Thu, 24 Nov 2022 12:59:29 +0000
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='IF22112429074017-Invoice.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+-----------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ -----------------------------subject: 
+Your Zomato order from Chicago Pizza
+from_email : 
+Zomato Order <noreply@zomato.com>
+date : 
+Mon, 14 Oct 2024 15:46:38 +0000 (UTC)
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='Order_ID_6269320849.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='Order_Invoice6269320849.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='User_Charge_Invoice6269320849.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+-----------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ -----------------------------subject: 
+Uw CHANEL factuur / Your CHANEL receipt
+from_email : 
+Omkar Malpure <i-omkar@hush1one.com>
+date : 
+Fri, 26 Jan 2024 10:38:58 +0530
+plain_body : 
+Geachte mevrouw, geachte heer,
+
+
+
+Wij danken u voor uw bezoek..
+
+In bijlage vindt u uw factuur.
+
+We hopen u snel weer te mogen verwelkomen in onze boutiques
+
+
+
+CHANEL
+
+https://www.chanel.com/
+<http://r.btobmailing.chanel.com/tr/cl/gf4tctTPHt4wXcGF8TGCltDndfPhwqfEwKt1gLof89lxXauaeKHIXv99tIgpdumMF6LHQiR8O10Hbp_sN76sZIeevqC5exk-GHFj4ry1HnIhUenRtEwe6AxDMF30q2DPpjDxL67vNPyBhIZhZUbhdHrQKCyJ-aDFBRukuF9NRmUN217-2BVakzrPwDzSy8RS0_Fq79YWlT6l3EB3aMtsDqHDsfXzc_E>
+
+
+
+
+
+
+
+Dear Madam, Dear Sir,
+
+
+
+We thank you for your visit.
+
+Please find your receipt enclosed.
+
+We look forward to welcoming you again soon in our boutiques.
+
+
+
+CHANEL
+
+https://www.chanel.com/
+<http://r.btobmailing.chanel.com/tr/cl/QCOztGhHHAch1PP8QiAL9D5Sa0i8F9Rkq1nsIY-FMu1OkelRvOkSdU1wYqz43fgLJvU9seweGrMcvldJAGgRdpIlW-TtiHmDNp7kp1Ay2f9QpuH0feBsNXiQLA0KnLG4IEfI8koT4xdR-4OjumvqlXfs3552WfUkKu6SYUDU84eWWnW6nf9fN0_lqEGPxJ00YXUomGfDaYhH3RnaNXbAuHm2b3qOg2M>
+
+attachments : 
+[EmailAttachment(filename='ffo_ha_182204_230615_172011_261d.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+-----------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ -----------------------------subject: 
+Your Zomato order from Al Arabian Express
+from_email : 
+Zomato Order <noreply@zomato.com>
+date : 
+Sat, 13 Jan 2024 08:55:42 +0000 (UTC)
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='Order_ID_5492753171.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='Order_Invoice5492753171.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='User_Charge_Invoice5492753171.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+-----------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ -----------------------------subject: 
+Your Zomato order from Al Arabian Express
+from_email : 
+Zomato Order <noreply@zomato.com>
+date : 
+Wed, 10 Jan 2024 16:04:15 +0000 (UTC)
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='Order_ID_5489185541.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='Order_Invoice5489185541.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='User_Charge_Invoice5489185541.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+-----------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ -----------------------------subject: 
+Your Zomato order from Burger King
+from_email : 
+Zomato Order <noreply@zomato.com>
+date : 
+Sun, 31 Dec 2023 07:59:58 +0000 (UTC)
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='Order_ID_5449023577.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='Order_Invoice5449023577.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='User_Charge_Invoice5449023577.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+-----------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ -----------------------------subject: 
+Your Zomato order from Burger King
+from_email : 
+Zomato Order <noreply@zomato.com>
+date : 
+Fri, 08 Dec 2023 15:46:11 +0000 (UTC)
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='Order_ID_5395207142.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='Order_Invoice5395207142.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='User_Charge_Invoice5395207142.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+-----------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ -----------------------------subject: 
+EatSure : Invoice for your order CRN- 203632057
+from_email : 
+EatSure <no-reply@eatsure.com>
+date : 
+Sat, 18 Nov 2023 12:21:45 +0530
+plain_body : 
+ Hello Omkar Malpure!, Such assurance on your plate. And it tastes so good you'll forget to Instagram it. It's time to EatSure. Attached is your order invoice. Disclaimer: This is sent on behalf of the Brand Partner and EatSure disclaims any and all liabilities that may arise in this respect. Click here to unsubscribe
+attachments : 
+[EmailAttachment(filename='EatSure.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+-----------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ -----------------------------subject: 
+Your Zomato order from Burger King
+from_email : 
+Zomato Order <noreply@zomato.com>
+date : 
+Sun, 05 Nov 2023 04:45:14 +0000 (UTC)
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='Order_ID_5316185112.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='Order_Invoice5316185112.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='User_Charge_Invoice5316185112.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+-----------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ -----------------------------subject: 
+Your Zomato order from Faasos - Wraps & Rolls
+from_email : 
+Zomato Order <noreply@zomato.com>
+date : 
+Thu, 26 Oct 2023 05:15:09 +0000 (UTC)
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='Order_ID_5291540749.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='Order_Invoice5291540749.pdf', mime_type='application/pdf', size=0, content_id=None, data=None), EmailAttachment(filename='User_Charge_Invoice5291540749.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+-----------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ -----------------------------subject: 
+[ACTION REQUIRED 🚨️] Your Acko Travel Insurance policy is pending activation
+from_email : 
+Acko Support <ecare@acko.com>
+date : 
+Mon, 28 Aug 2023 13:52:02 +0000
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='coi.pdf', mime_type='application/octet-stream', size=0, content_id=None, data=None)]
+-----------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ -----------------------------subject: 
+Your Swiggy order was delivered on time
+from_email : 
+Swiggy <noreply@swiggy.in>
+date : 
+Sat, 15 Apr 2023 09:20:06 +0000
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='taco/0506999041500026_6bb7fdf2-2f5d-47da-986e-737432bae261.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+-----------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ -----------------------------subject: 
+Your Swiggy order was delivered superfast
+from_email : 
+Swiggy <noreply@swiggy.in>
+date : 
+Tue, 3 Jan 2023 03:49:40 +0000
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='taco/0506999010300001_4822e89a-55a4-47cd-ab52-8e8f1ba41603.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+-----------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : [SSL] record layer failure (_ssl.c:2559)
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ -----------------------------subject: 
+EatSure : Invoice for your order CRN- 107434760
+from_email : 
+EatSure <no-reply@eatsure.com>
+date : 
+Sat, 29 Oct 2022 10:37:28 +0530
+plain_body : 
+ Hello Omkar Malpure!, Such assurance on your plate. And it tastes so good you'll forget to Instagram it. It's time to EatSure. Attached is your order invoice. Disclaimer: This is sent on behalf of the Brand Partner and EatSure disclaims any and all liabilities that may arise in this respect. Click here to unsubscribe
+attachments : 
+[EmailAttachment(filename='Faasos - Wraps & Rolls.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+redBus - Tax Invoice
+from_email : 
+Support redBus <support@redbus.in>
+date : 
+Mon, 7 Nov 2022 13:18:55 +0000
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='AC_GST_Tax_Invoice.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+EatSure : Invoice for your order CRN- 107545049
+from_email : 
+EatSure <no-reply@eatsure.com>
+date : 
+Sun, 30 Oct 2022 15:52:36 +0530
+plain_body : 
+ Hello Omkar Malpure!, Such assurance on your plate. And it tastes so good you'll forget to Instagram it. It's time to EatSure. Attached is your order invoice. Disclaimer: This is sent on behalf of the Brand Partner and EatSure disclaims any and all liabilities that may arise in this respect. Click here to unsubscribe
+attachments : 
+[EmailAttachment(filename='Faasos - Wraps & Rolls.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+EatSure : Invoice for your order CRN- 105547562
+from_email : 
+EatSure <no-reply@eatsure.com>
+date : 
+Wed, 5 Oct 2022 19:51:20 +0530
+plain_body : 
+ Hello Omkar Malpure!, Such assurance on your plate. And it tastes so good you'll forget to Instagram it. It's time to EatSure. Attached is your order invoice. Disclaimer: This is sent on behalf of the Brand Partner and EatSure disclaims any and all liabilities that may arise in this respect. Click here to unsubscribe
+attachments : 
+[EmailAttachment(filename='Lunchbox Meals & Thalis.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+EatSure : Invoice for your order CRN- 107923169
+from_email : 
+EatSure <no-reply@eatsure.com>
+date : 
+Fri, 4 Nov 2022 16:06:51 +0530
+subject: 
+EatSure : Invoice for your order CRN- 106253640
+from_email : 
+EatSure <no-reply@eatsure.com>
+date : 
+Fri, 14 Oct 2022 11:32:38 +0530
+plain_body : 
+ Hello Omkar Malpure!, Such assurance on your plate. And it tastes so good you'll forget to Instagram it. It's time to EatSure. Attached is your order invoice. Disclaimer: This is sent on behalf of the Brand Partner and EatSure disclaims any and all liabilities that may arise in this respect. Click here to unsubscribe
+attachments : 
+[EmailAttachment(filename='Faasos - Wraps & Rolls.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+plain_body : 
+ Hello Omkar Malpure!, Such assurance on your plate. And it tastes so good you'll forget to Instagram it. It's time to EatSure. Attached is your order invoice. Disclaimer: This is sent on behalf of the Brand Partner and EatSure disclaims any and all liabilities that may arise in this respect. Click here to unsubscribe
+attachments : 
+[EmailAttachment(filename='Faasos - Wraps & Rolls.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+Your Swiggy order was delivered superfast
+from_email : 
+Swiggy <noreply@swiggy.in>
+date : 
+Fri, 23 Dec 2022 14:56:27 +0000
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='taco/0024413122300018_137c78a7-ffd3-44d7-90bf-78ecf310975e.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+EatSure : Invoice for your order CRN- 106338930
+from_email : 
+EatSure <no-reply@eatsure.com>
+date : 
+Sat, 15 Oct 2022 10:57:09 +0530
+plain_body : 
+ Hello Omkar Malpure!, Such assurance on your plate. And it tastes so good you'll forget to Instagram it. It's time to EatSure. Attached is your order invoice. Disclaimer: This is sent on behalf of the Brand Partner and EatSure disclaims any and all liabilities that may arise in this respect. Click here to unsubscribe
+attachments : 
+[EmailAttachment(filename='Faasos - Wraps & Rolls.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+EatSure : Invoice for your order CRN- 105625948
+from_email : 
+EatSure <no-reply@eatsure.com>
+date : 
+Thu, 6 Oct 2022 17:16:26 +0530
+plain_body : 
+ Hello Omkar Malpure!, Such assurance on your plate. And it tastes so good you'll forget to Instagram it. It's time to EatSure. Attached is your order invoice. Disclaimer: This is sent on behalf of the Brand Partner and EatSure disclaims any and all liabilities that may arise in this respect. Click here to unsubscribe
+attachments : 
+[EmailAttachment(filename='Faasos - Wraps & Rolls.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+ixigo Booking Invoice. Booking ID. Booking ID : IF22112429074017
+from_email : 
+ixigo <no-reply@ixigo.com>
+date : 
+Thu, 24 Nov 2022 12:59:29 +0000
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='IF22112429074017-Invoice.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+subject: 
+Your Swiggy order was delivered superfast
+from_email : 
+Swiggy <noreply@swiggy.in>
+date : 
+Wed, 7 Dec 2022 14:31:16 +0000
+plain_body : 
+
+attachments : 
+[EmailAttachment(filename='taco/0402983120700040_1976e1d9-a85b-43e7-b9ed-f5d4a6b70351.pdf', mime_type='application/pdf', size=0, content_id=None, data=None)]
+-----------------------------Error : The read operation timed out
+ 
+ ----------------------------------------------------------Error : The read operation timed out
+ 
+ -----------------------------

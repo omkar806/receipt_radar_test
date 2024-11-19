@@ -1,0 +1,1 @@
+G_QUERY = f'(subject:"your order" OR subject:receipts OR subject:receipt OR subject:invoice OR subject:invoices OR subject:"insurance" OR subject:"health report" OR category:purchases OR label:receipts OR label:invoices OR label:insurance OR label:health filename:pdf)'
